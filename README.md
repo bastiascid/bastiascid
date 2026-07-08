@@ -35,20 +35,6 @@ Soy Ingeniero en Ejecución Informática y docente de programación, con experie
 - **Especialidades (Certificaciones de Google & Coursera):** Ciberseguridad, Inteligencia Artificial, Ciencia de Datos
 </details>
 
----
-
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastiascid&theme=discord_old_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bastiascid&theme=discord_old_dark" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bastiascid&theme=discord_old_dark&utcOffset=-4" alt="Productive Time" width="48%" />
-</div>
 
 ---
 
