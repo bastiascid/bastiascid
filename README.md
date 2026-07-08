@@ -40,20 +40,14 @@ Soy Ingeniero en Ejecución Informática y docente de programación, con experie
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/bastiascid">
-    <img src="https://github-readme-stats.vercel.app/api?username=bastiascid&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/bastiascid">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastiascid&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastiascid&theme=discord_old_dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bastiascid&theme=discord_old_dark" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/bastiascid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastiascid&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bastiascid&theme=discord_old_dark&utcOffset=-4" alt="Productive Time" width="48%" />
 </div>
 
 ---
